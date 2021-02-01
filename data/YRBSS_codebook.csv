@@ -1,0 +1,97 @@
+﻿Topic,Variable,Question in Survey,Asked Question
+Demographic,Age,Q1,How old are you?
+,Sex,Q2,What is your Sex?
+,Grade,Q3,In what grade are you?
+,Hispanic.Latino,Q4,Are you Hispanic or Latino?
+,raceeth,Q5,What is your race? (Select one or more responses)
+Driving,seatbelt_wear,Q8,How often do you wear a seat belt when riding in a car driven by someone else?
+,pass_drink_drv,Q9,"During the last 30 days, how many times did you ride in a car or other vehicle driven by someone who had been drinking alcohol?"
+,drink_drv,Q10,"During the last 30 days, how many times did you drive a car or other vehicle when you had been drinking alcohol?"
+,drv_text_email,Q11,"During the past 30 days, on how many days did you text or e-mail while driving a car or other vehicle?"
+Weapons,weapons_all,Q12,"During the past 30 days, on how many days did you carry a weapon such as a gun, knife, or club?"
+,weapons_toschool,Q13,"During the past 30 days, on how many days did you carry a weapon such as a gun, knife, or club on school property?"
+,weapons_gun,Q14,"During the past 12 months, on how many days did you carry a gun? ( Do not count the days when you carried a gun only for hunting or for sport, such as target shooting.)"
+,unsafe,Q15,"During the past 30 days, on how many days did you not go to school because you felt you would be unsafe at school or on your way to or from school?"
+,weapons_inj,Q16,"During the past 12 months, how many times has someone threatened or injured you with a weapon such as a gun, knife, or club on school property?"
+Fighting,phys_fight,Q17,"During the past 12 months, how many times were you in a physical fight?"
+,phys_fight_sch,Q18,"During the past 12 months, how many times were you in a physical fight on school property?"
+Dating Violence,viol_dating1,Q19,Have you ever been physically forced to have sexual intercourse when you did not want to?
+,viol_dating2,Q20,"During the past 12 months, how many times did anyone force you to do sexual things that you did not want to? (Kissing, touching, or forced to have intercourse)"
+,viol_dating3,Q21,"During the past 12 months, how many times did someone you were dating or going out with force you to do sexual things that you do not want to do? (Kissing, touching, intercourse)"
+,viol_dating4,Q22,"During the past 12 months, how many times did someone you were dating or going out with physically jurt you on purpose?"
+Bullying,bullied_sch,Q23,"During the past 12 months, have you ever been bullied on school property?"
+,bullied_elec,Q24,"During the past 12 months, have you ever been electronically bullied? (Count texting, Instagram, Facebook, or other social media)"
+Depression,sad,Q25,"During the past 12 months, did you ever feel so dad or hopeless almost every day for two weeks or more in a row that you stopped doing some usual activities?"
+,suicide_consider,Q26,"During the past 12 months, did you ever seriously consider attempting suicide?"
+,suicide_plan,Q27,"During the past 12 months, did you make a plan about how you would attempt suicide?"
+,suicide_attempt,Q28,"During the past 12 months, how many times did you actually attempt suicide?"
+,suicide_treat,Q29,"If you attempted suicide during the past 12 months, did any attempt result in an injury, poisoning, or overdose that had to be treated by a doctor or nurse?"
+Smoking,smoke_ever,Q30,"Have you ever trid cigarette smoking, even one or two puffs?"
+,smoke_first,Q31,"How old were you when you first tried cigarette smoking, even one or two puffs?"
+,smoke_days,Q32,"During the past 30 days, on how many days did you smoke cigarettes?"
+,smoke_perday,Q33,"During the past 30 days, on the days you smoked, how many cigarettes did you smoke per day?"
+Vaping,vape,Q34,Have you ever used an electronic vapor product?
+,vape_days,Q35,"During the past 30 days, on how many days did you use an electronic vapor product?"
+,vape_purchase,Q36,"During the past 30 days, how did you usually get your own electronic vapor products?"
+Tobacco Products,chew_tobac,Q37,"During the past 30 days, on how many days did you use chewing tobacco, snuff, dip, snus, or dissolvable tobacco products such as Redman, Levi Garnett, etc…"
+,oth_tobac,Q38,"During the past 30 days, on how many days did you smoke cigars, cigarillos, or little cigars?"
+,quit_all_tobac,Q39,"During the past 12 months, did you ever try to quit using all tobacco products, including cigarettes, cigars, smokeless tobacco, shisha or hookah, and electronic vaper products?"
+Drinking,drink_ever,Q40,"During your life, on how many days have you had at least one drink of alcohol?"
+,drink_age,Q41,How old were you when you had your first drink of alcohol other than a few sips?
+,drink_days,Q42,"During the past 30 days, on how many days did you have at least one drink of alcohol?"
+,drink_purchase,Q43,"During the past 30 days, how did you usually get the alcohol you drank?"
+,drink_binge,Q44,"During the past 30 days, on how many days did you have 4 or more drinks of alcohol in a row (female) or 5 or more drinks of alcohol in a row (male)?"
+,drink_inrow,Q45,"During th+[@[Asked Question]]e past 30 days, what is the largest number of alcoholic drinks you had in a row?"
+Marijuana,marijuana,Q46,"During your life, how many times have you used marijuana?"
+,marijuana_age,Q47,How old were you when you tried marijuana for the first time?
+,marijuane_use,Q48,"During the past 30 days, how many times did you use marijuana?"
+Drug Use,drug_cocaine,Q49,"During your life, how many times have you used any form of cocaine, including powder, crack , or freebase?"
+,drug_inhalents,Q50,"During your life, how many times have you sniffed glue, breathed the contents of aerosol spray cans, or inhaled any paints or sprays to get high?"
+,drug_heroin,Q51,"During your life, how many times have you used heroin?(aka smack, junk, or China White)"
+,drug_meth,Q52,"During your life, how many times have you used methamphetamines? (aka speed, crystal, crank, or ice)"
+,drug_X,Q53,"During your life, how many times have you used ecstasy? (aka MDMA)"
+,drug_synth_mj,Q54,"During your life, how many times have you used synthetic marijuana? (aka K2, Spice, fake weed, King Kong, Yucatan Fire, Skunk, or Moon Rocks)"
+,drug_pills,Q55,"During your life, how many times have you taken steroid pills or shots without a doctor's prescription?"
+,drug_Rx_abuse,Q56,"During your life, how many times have you taken prescription pain medication without a doctor's prescription or differently than how a doctor told you to use it? (Count: codeine, Vicodin, OxyContin, Hydrocodone, and Percocet)"
+,drug_needle_use,Q57,"During your life, how many times have you used a needle to inject any illegal drug into your body?"
+,drugs_sch,Q58,"During the past 12 months, has anyone offered, sold, or given you an illegal drug on school property?"
+Sex,sex_ever,Q59,Have you ever had sexual intercourse?
+,sex_age,Q60,How old were you when you had sexual intercourse for the first time?
+,sex_partners,Q61,"During your life, with how many people have you had sexual intercourse?"
+,sex_partners_3mo,Q62,"During the past 3 months, with how many people did you have sexual intercourse?"
+,sex_drugs,Q63,Did you drink alcohol or use drugs before you had sexual intercourse the last time?
+,sex_condom,Q64,"The last time you had sexual intercourse, did you or your partner use a condom?"
+,sex_contraception,Q65,"The last time you had sexual intercourse, what one method did you or your partner use to prevent pregnancy?"
+,sex_contact,Q66,"During your life, with whom have you had sexual contact?"
+,sex_id,Q67,Which of the following best describes you?
+Diet,weight_percept,Q68,How do you describe your weight?
+,weight_control,Q69,Which of the following are you trying to do about your weight?
+,fruit_juice,Q70,"During the past 7 days, how many times did you drink 100% fruit juices such as orange, apple, or grape juice?(Do not count punch, Kool-Aid, sports drinks, or other fruit-flavored drinks)"
+,fruit_consumption,Q71,"During the past 7 days, how many times did you eat fruit?"
+,salad_consumption,Q72,"During the past 7 days, how many times did you eat green salad?"
+,potato_consumption,Q73,"During the past 7 days, how many times did you eat potatoes? ( Do not count french fries, fried potatoes, or potato chips)"
+,carrot_consumption,Q74,"During the past 7 days, how many times did you eat carrots?"
+,veggie_consumption,Q75,"During the past 7 days, how many times did you eath other vegetables? (Do not count green salad, potatoes, or carrots)"
+,soda_consumption,Q76,"During the past 7 days, how many times did you drink a can, bottle, or glass of soda or pop, such as Coke, Pepsi, or Sprite? (Do not count diet soda or diet pop.)"
+,milk_consumption,Q77,"During the past 7 days, how many glasses of milk did you drink? (Count the milk you drank in a glass or cup, from a carton, or with cereal. Count milk at school)"
+,breakfast,Q78,"During the past 7 days, on how many days did you eat breakfast?"
+Activity,exercise,Q79,"During the past 7 days, on how many days were you physically active for a total of at least 60 minutes per day? ( Add up all time you spent in an activity that increased your heart rate and made you breathe hard some of the time)"
+,TV_hours,Q80 ,"On an average school day, how many hours do you watch TV?"
+,computer_hours,Q81,"On an average school day, how many hours do you play video or computer games or use a computer for something that is not school work?"
+,PE_class,Q82,"In an average week when you are in school, on how many days do you go to PE class?"
+,sports,Q83,"During the past 12 months, on how many sports teams did you play? ( Count teams run by school or community groups)"
+,concussion_sports,Q84,"During the past 12 months, on how many times did you have a concussion from playing a sport or peang physically active?"
+Other Health,tested_HIV,Q85,"Have you ever been tested for HIV, the virus that causes AIDS?"
+,dentist,Q86,"When was the last time you saw a dentist for a check-up, exam, teeth cleaning, or other dental work?"
+,asthma,Q87,Has a doctor or nurse ever told you that you have asthma?
+,sleep,Q88,"On an average school night, how many hours of sleep do you get?"
+,grade_descript,Q89,"During the past 12 months, how would you describe your grades in school?"
+,marijuana_drv,Q90,"During the past 30 days, how many times did you drive a car of other vehicle when you had been using marijuana?"
+,drug_hallucigens,Q91,"During your life, how many times have you used hallucinogenic drugs, such as LSD, acid, PCP, andgel dust, mescaline, or mushrooms?"
+,sportsdrink_consumption,Q92,"During the past 7 days, how many times did you drink a can, bottle, or glass of a sports drink, such as Gatorade or PowerAde?"
+,water_consumption,Q93,"During the past 7 days, how many times did you drink a bottle or glass of plain water?"
+,food_allergies,Q94,"Are there any foods that you have to avoid because eating the food could cause an allergic reaction, like skin rashes, swelling, itching, vomiting, coughing, or trouble breathing?"
+,tone_muscles,Q95,"During the past 7 days, on how many days did you do exercises to strengthen or tone your muscles, such as push-ups, sit-ups, or weight lifting?"
+,fake_tan,Q96,"During the past 12 months, how many times did you use an indoor tanning device such as a sunlamp, sunbed, or tanning booth? ( Do not include spray on)"
+,sunburn,Q97,"During the past 12 months, how many times have you had a sunburn?"
+,diff_concentration,Q98,"Because of a physical, mental, or emotional problem, do you have serious difficulty concentrating, remembering, or making decisions?"
