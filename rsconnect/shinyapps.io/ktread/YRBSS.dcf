@@ -1,0 +1,12 @@
+name: YRBSS
+title: YRBSS
+username:
+account: ktread
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 1218553
+bundleId: 2427510
+url: https://ktread.shinyapps.io/YRBSS/
+when: 1568920472.68023
+asMultiple: FALSE
+asStatic: FALSE
