@@ -1,21 +1,21 @@
-Data Visualisation 
-J Component
-Review 2
+#Data Visualisation 
+#J Component
+#Review 2
 
-Youth Risk Behaviour Surveillance System
+#Youth Risk Behaviour Surveillance System
 
 Members: 
 Ritika Kayal - 18BCE2518
 Aditi Tarigoppula - 18BCE0728
 
-Steps to launch the shiny app through Rstudio:
+##Steps to launch the shiny app through Rstudio:
 
-Open Rstudio.
-Open the YRBSS folder present in the project folder.
-Select global.r or server.r to open in Rstudio.
-Click on Run app.
+1. Open Rstudio.
+2. Open the YRBSS folder present in the project folder.
+3. Select global.r or server.r to open in Rstudio.
+4. Click on Run app.
 
-Description of each file:
+##Description of each file:
 
 global.R
 Contains the calculations for measures of central tendency and the plotly code that connects the visualisations with the dataset.
