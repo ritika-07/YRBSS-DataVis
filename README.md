@@ -1,10 +1,4 @@
-# Data Visualisation - J Component
-
 # Youth Risk Behaviour Surveillance System
-
-Members: 
-Ritika Kayal - 18BCE2518
-Aditi Tarigoppula - 18BCE0728
 
 ## Steps to launch the shiny app through Rstudio:
 
